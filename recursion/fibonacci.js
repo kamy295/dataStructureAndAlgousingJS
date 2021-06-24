@@ -7,12 +7,12 @@ function Fibonacci(s) {
   }
 }
 
-for(let i = 0; i <= 10; i++) {
+for(let i = 0; i <= 9; i++) {
     console.log(Fibonacci(i));
 }
 
 
-// console.log(Fibonacci(10));
+ //console.log(Fibonacci(10));
 // console.log(recursiveRange(10));
 
 function recursiveRange(x) {
